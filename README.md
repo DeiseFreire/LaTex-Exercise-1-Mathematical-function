@@ -27,3 +27,8 @@ Este documento LaTeX explora a função matemática `f(x) = (x - 1)/(x + 1)` e d
 * Comandos como `\Rightarrow` e `\text{...}` auxiliam na explicação da resolução.
 
 Este documento demonstra como utilizar LaTeX para representar equações matemáticas e resolver problemas relacionados a funções.
+
+### Visualização:
+
+<img src="https://github.com/DeiseFreire/LaTex-Exercise-1-Mathematical-function/blob/main/T-145714052024.jpg" alt="Texto Alternativo">
+
